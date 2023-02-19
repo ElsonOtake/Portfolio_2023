@@ -36,7 +36,7 @@ function ContactMe({}: Props) {
         <form className='flex flex-col space-y-2 w-fit mx-auto'>
           <div className='flex space-x-2'>
             <input placeholder="Name" className="contactInput" type="text" />
-            <input placeholder="Email" className="contactInput" type="text" />
+            <input placeholder="Email" className="contactInput" type="email" />
           </div>
 
           <input placeholder="Subject" className="contactInput" type="text" />
