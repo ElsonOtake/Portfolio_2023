@@ -25,7 +25,7 @@ function Projects({}: Props) {
                 UPS clone
               </h4>
 
-              <p>
+              <p className="text-lg text-center md:text-left">
                 Netflix 2.0 app that has a Log In and Log Out Authentication
                 with Google. It has a beautiful Home Screen with all the movies
                 looking just like Netflix. There is also a subscription page 
