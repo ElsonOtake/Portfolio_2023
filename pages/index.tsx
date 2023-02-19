@@ -4,7 +4,8 @@ import Hero from '../components/Hero'
 import About from '../components/About'
 import WorkExperience from '../components/WorkExperience'
 import Skills from '../components/Skills'
-import styles from '../styles/Home.module.css'
+// import styles from '../styles/Home.module.css'
+import Projects from '../components/Projects'
 
 export default function Home() {
   return (
@@ -27,11 +28,13 @@ export default function Home() {
         <WorkExperience />
       </section>
 
-      <section id='dkills' className='snap-start'>
+      <section id='skills' className='snap-start'>
         <Skills />
       </section>
 
-      {/* Projects */}
+      <section id='projects' className='snap-start'>
+        <Projects />
+      </section>
 
       {/* Contact Me */}
     </div>
