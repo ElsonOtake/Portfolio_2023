@@ -6,6 +6,7 @@ import WorkExperience from '../components/WorkExperience'
 import Skills from '../components/Skills'
 // import styles from '../styles/Home.module.css'
 import Projects from '../components/Projects'
+import ContactMe from '../components/ContactMe'
 
 export default function Home() {
   return (
@@ -36,7 +37,8 @@ export default function Home() {
         <Projects />
       </section>
 
-      {/* Contact Me */}
-    </div>
+      <section id='contactme' className='snap-start'>
+        <ContactMe />
+      </section>    </div>
   )
 }
