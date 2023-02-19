@@ -1,4 +1,5 @@
 import React from 'react'
+import { PhoneIcon, MapPinIcon, EnvelopeIcon } from "@heroicons/react/24/solid";
 
 type Props = {}
 
@@ -14,6 +15,13 @@ function ContactMe({}: Props) {
           I have got just what you need.{" "}
           <span className="underline decoration-[#F7AB0A]/50">Lets Talk.</span>
         </h4>
+
+        <div>
+          <div className='flex items-center space-x-5 justify-center'>
+            <PhoneIcon className='text-[#F7AB0A] h-7 w-7 animate-pulse' />
+            <p className='text-2xl'>+1234567890</p>
+          </div>
+        </div>
       </div>
     </div>
   )
