@@ -1,0 +1,14 @@
+src/sanity/structure.ts
+  h_da978aeed56e72 8-12,15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4d94c607f853cf97e6298a83cc7844db5e428299",
+  "prompts": {},
+  "humans": {
+    "h_da978aeed56e72": {
+      "author": "Elson Otake <elsonotake@yahoo.com.br>"
+    }
+  }
+}
