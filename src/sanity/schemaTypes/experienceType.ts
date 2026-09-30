@@ -2,7 +2,6 @@ import {defineArrayMember, defineField, defineType} from 'sanity'
 
 export const experienceType = defineType({
   name: 'experience',
-  title: 'Experience',
   type: 'document',
   fields: [
     defineField({

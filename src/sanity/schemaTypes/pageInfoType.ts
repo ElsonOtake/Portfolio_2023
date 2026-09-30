@@ -2,7 +2,6 @@ import {defineArrayMember, defineField, defineType} from 'sanity'
 
 export const pageInfoType = defineType({
   name: 'pageInfo',
-  title: 'pageInfo',
   type: 'document',
   fields: [
     defineField({
