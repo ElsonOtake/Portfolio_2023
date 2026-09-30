@@ -2808,9 +2808,9 @@
     "@sanity/uuid" "^3.0.2"
     ts-brand "^0.2.0"
 
-"@sanity/image-url@2", "@sanity/image-url@^2.1.1":
+"@sanity/image-url@^2.1.1":
   version "2.1.1"
-  resolved "https://registry.npmjs.org/@sanity/image-url/-/image-url-2.1.1.tgz"
+  resolved "https://registry.yarnpkg.com/@sanity/image-url/-/image-url-2.1.1.tgz#58fc012e297e997792d94dc5f081424967c18aa7"
   integrity sha512-qVXsF1teWR6FO3ZFAz46HDcRU+E6EQkpyncPnkGOzeJ1PgnaOiWMVbiSrZtX10s3txzzu/tAjKwbxbGHfDWgGw==
   dependencies:
     "@sanity/signed-urls" "^2.0.2"
@@ -7425,9 +7425,9 @@ natural-compare@^1.4.0:
   resolved "https://registry.npmjs.org/natural-compare/-/natural-compare-1.4.0.tgz"
   integrity sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==
 
-next-sanity@13:
+next-sanity@^13.3.4:
   version "13.3.4"
-  resolved "https://registry.npmjs.org/next-sanity/-/next-sanity-13.3.4.tgz"
+  resolved "https://registry.yarnpkg.com/next-sanity/-/next-sanity-13.3.4.tgz#e1c0095c7a1576cfa41c9ebf052ec3f9d6fc39eb"
   integrity sha512-aT7Tq03tXkrjKWYKNUc/nPUrG9UR5GznP/GyQg5Y0InGCpw8EAvdoqolEZ071rOFcFZ9tolZkcS3HHLkNsbeuA==
   dependencies:
     "@portabletext/react" "^7.0.1"
@@ -9594,7 +9594,7 @@ typescript-eslint@^8.46.0:
     "@typescript-eslint/typescript-estree" "8.71.0"
     "@typescript-eslint/utils" "8.71.0"
 
-typescript@^7.0.2:
+typescript@7.0.2:
   version "7.0.2"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-7.0.2.tgz#9ec773d7954a8c182c17cc5bbd575aa28bc51582"
   integrity sha512-8FYau96o3NKOhbjKi/qNvG/W5jhzxkbdm5sj9AbZ/5T5sWqn3hJgLfGx27sRKZWTvyzCP8dLRBTf5tBTSRVUNA==
