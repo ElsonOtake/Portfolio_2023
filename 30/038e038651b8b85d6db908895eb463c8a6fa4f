@@ -1,0 +1,18 @@
+sanity.ts
+  h_da978aeed56e72 1-16
+package.json
+  h_da978aeed56e72 14,23
+yarn.lock
+  h_da978aeed56e72 2811,2813,7428,7430,9597
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "30038e038651b8b85d6db908895eb463c8a6fa4f",
+  "prompts": {},
+  "humans": {
+    "h_da978aeed56e72": {
+      "author": "Elson Otake <elsonotake@yahoo.com.br>"
+    }
+  }
+}
