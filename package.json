@@ -27,7 +27,7 @@
     "react-simple-typewriter": "^5.0.1",
     "react-social-icons": "^5.15.0",
     "sanity": "5",
-    "styled-components": "6",
+    "styled-components": "^6.1.15",
     "typescript": "7.0.2",
     "uuid": "^14.0.2"
   },
