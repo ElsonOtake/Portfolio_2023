@@ -1,0 +1,28 @@
+src/sanity/schemaTypes/experienceType.ts
+  h_da978aeed56e72 1-54
+src/sanity/schemaTypes/projectType.ts
+  h_da978aeed56e72 1-39
+src/sanity/schemaTypes/skillType.ts
+  h_da978aeed56e72 1-30
+src/sanity/schemaTypes/index.ts
+  h_da978aeed56e72 1,3-7,9-12
+src/sanity/schemaTypes/socialType.ts
+  h_da978aeed56e72 1-20
+src/sanity/schemaTypes/pageInfoType.ts
+  h_da978aeed56e72 1-61
+.sanity/runtime/app.js
+  h_da978aeed56e72 1-11
+.sanity/runtime/index.html
+  h_da978aeed56e72 1-294
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "da4fad585a653f7020394b2e6525e460cf322b0f",
+  "prompts": {},
+  "humans": {
+    "h_da978aeed56e72": {
+      "author": "Elson Otake <elsonotake@yahoo.com.br>"
+    }
+  }
+}
