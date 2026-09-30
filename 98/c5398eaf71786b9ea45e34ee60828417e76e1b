@@ -1,0 +1,22 @@
+utils/fetchPageInfo.ts
+  h_da978aeed56e72 1-12
+utils/fetchSocials.ts
+  h_da978aeed56e72 1-12
+utils/fetchProjects.ts
+  h_da978aeed56e72 1-12
+utils/fetchSkills.ts
+  h_da978aeed56e72 1-12
+utils/fetchExperiences.ts
+  h_da978aeed56e72 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "98c5398eaf71786b9ea45e34ee60828417e76e1b",
+  "prompts": {},
+  "humans": {
+    "h_da978aeed56e72": {
+      "author": "Elson Otake <elsonotake@yahoo.com.br>"
+    }
+  }
+}
