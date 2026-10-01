@@ -1,0 +1,20 @@
+components/ExperienceCard.tsx
+  h_da978aeed56e72 3-4,7,10,23,28,30,32-33,36-39,41-45
+  h_da978aeed56e72 6,8,29,31,35,40
+components/WorkExperience.tsx
+  h_da978aeed56e72 4,7,10,22-24
+  h_da978aeed56e72 6,8
+pages/index.tsx
+  h_da978aeed56e72 45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4e300b5fc133563e99676cf5ad6d6e05669d7f94",
+  "prompts": {},
+  "humans": {
+    "h_da978aeed56e72": {
+      "author": "Elson Otake <elsonotake@yahoo.com.br>"
+    }
+  }
+}
