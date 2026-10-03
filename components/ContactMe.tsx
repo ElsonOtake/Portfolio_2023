@@ -18,8 +18,12 @@ function ContactMe({ pageInfo }: Props) {
   const { register, handleSubmit } = useForm<Inputs>();
 
   const onSubmit: SubmitHandler<Inputs> = (formData) => {
-    window.location.href = `mailto:${pageInfo?.email}?subject=${formData.subject}&
-    body=Hi, my name is ${formData.name}. ${formData.message} (${formData.email})`;
+    const subject = encodeURIComponent(formData.subject);
+    const body = encodeURIComponent(
+      `Hi, my name is ${formData.name}.\n\n${formData.message}\n\nContact Email: ${formData.email}`
+    );
+
+    window.location.href = `mailto:${pageInfo?.email}?subject=${subject}&body=${body}`;
   };
   
   return (
@@ -30,7 +34,7 @@ function ContactMe({ pageInfo }: Props) {
 
       <div className="flex flex-col space-y-10">
         <h4 className="text-4xl font-semibold text-center">
-          I have got just what you need.{" "}
+          Looking for the right fit for your team?{" "}
           <span className="underline decoration-[#F7AB0A]/50">Let's Talk.</span>
         </h4>
 
