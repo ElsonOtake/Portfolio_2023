@@ -23,23 +23,39 @@ function Projects({ projects }: Props) {
             <div
               key={project._id}
               className= "w-screen flex-shrink-0 snap-center flex flex-col space-y-5 items-center justify-center p-20 md:p-44 h-screen">
-              <motion.img
-                initial={{
-                  y: -300,
-                  opacity: 0
-                }}
-                transition={{ duration: 1.2 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true }}
-                src={urlFor(project?.image).url()}
-                alt=""
-              />
+              <a
+                href={project?.linkToBuild}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="cursor-pointer"
+                >
+                  <motion.img
+                    initial={{
+                      y: -300,
+                      opacity: 0
+                    }}
+                    transition={{ duration: 1.2 }}
+                    whileInView={{ opacity: 1, y: 0 }}
+                    viewport={{ once: true }}
+                    src={project?.image ? urlFor(project.image).url() : ''}
+                    alt={project?.title || ''}
+                    className="max-h-72 object-contain"
+                  />
+                </a>
+              
               <div className="space-y-10 px-0 md:px-10 max-w-6xl">
                 <h4 className="text-4xl font-semibold text-center">
                   <span className="underline decoration-[#F7AB0A]/50">
                     Case Study {i + 1} of {projects.length} : {" "}
                   </span>
-                  {project?.title}
+                  <a 
+                    href={project?.linkToBuild} 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="hover:underline hover:text-[#F7AB0A] transition-colors duration-200"
+                  >
+                    {project?.title}
+                  </a>
                 </h4>
 
                 <div className='flex items-center space-x-2 justify-center'>
