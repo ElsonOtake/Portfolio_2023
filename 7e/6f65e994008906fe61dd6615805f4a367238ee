@@ -1,0 +1,14 @@
+components/ContactMe.tsx
+  h_da978aeed56e72 21-26,37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7e6f65e994008906fe61dd6615805f4a367238ee",
+  "prompts": {},
+  "humans": {
+    "h_da978aeed56e72": {
+      "author": "Elson Otake <elsonotake@yahoo.com.br>"
+    }
+  }
+}
