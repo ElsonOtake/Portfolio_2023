@@ -1,0 +1,14 @@
+components/ExperienceCard.tsx
+  h_da978aeed56e72 25-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6c7192f7fb2304431ac55c13fbf2dc8ff978b1ba",
+  "prompts": {},
+  "humans": {
+    "h_da978aeed56e72": {
+      "author": "Elson Otake <elsonotake@yahoo.com.br>"
+    }
+  }
+}
