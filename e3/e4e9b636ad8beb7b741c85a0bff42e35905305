@@ -1,0 +1,18 @@
+components/Hero.tsx
+  h_da978aeed56e72 1-6,9-10,13,15,21-22,24-25,27-28,30,32,34-37,40-43,46,48-52,56-57,61-62,66-67,74
+  h_da978aeed56e72 44-45,53-54,58-59,63-64,68-69,75
+components/BackgroundCircles.tsx
+  h_da978aeed56e72 20,22-26
+  h_da978aeed56e72 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e3e4e9b636ad8beb7b741c85a0bff42e35905305",
+  "prompts": {},
+  "humans": {
+    "h_da978aeed56e72": {
+      "author": "Elson Otake <elsonotake@yahoo.com.br>"
+    }
+  }
+}
