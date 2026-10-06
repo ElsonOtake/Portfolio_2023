@@ -1,0 +1,15 @@
+components/About.tsx
+  h_da978aeed56e72 1-4,9-10,17-18,20-26,29-36,38,42,44,46-61,63,67,71,73-75,77,80-91
+  h_da978aeed56e72 19,62,64-66,68-70,72,76,94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fdb02ef2a7c6ef4de80052a8c43680b64ebdcd4c",
+  "prompts": {},
+  "humans": {
+    "h_da978aeed56e72": {
+      "author": "Elson Otake <elsonotake@yahoo.com.br>"
+    }
+  }
+}
