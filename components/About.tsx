@@ -48,7 +48,7 @@ export default function About({ pageInfo }: Props) {
         <img
           src={urlFor(pageInfo?.profilePic || pageInfo?.heroImage).url()}
           alt={pageInfo?.name || 'About Me'}
-          className="w-28 h-28 sm:w-36 sm:h-36 md:w-56 md:h-72 lg:w-72 lg:h-96 xl:w-[400px] xl:h-[500px] rounded-full md:rounded-2xl object-cover object-center shadow-2xl border-2 border-stone-700/80 hover:border-[#F7AB0A]/50 transition-all duration-300"
+          className="w-28 h-36 sm:w-36 sm:h-36 md:w-56 md:h-72 lg:w-72 lg:h-96 xl:w-[400px] xl:h-[500px] rounded-full md:rounded-2xl object-cover object-center shadow-2xl border-2 border-stone-700/80 hover:border-[#F7AB0A]/50 transition-all duration-300"
         />
       </motion.div>
 
