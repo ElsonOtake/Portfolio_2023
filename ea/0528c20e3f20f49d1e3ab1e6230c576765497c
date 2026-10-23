@@ -1,0 +1,14 @@
+components/Skills.tsx
+  h_da978aeed56e72 22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ea0528c20e3f20f49d1e3ab1e6230c576765497c",
+  "prompts": {},
+  "humans": {
+    "h_da978aeed56e72": {
+      "author": "Elson Otake <elsonotake@yahoo.com.br>"
+    }
+  }
+}

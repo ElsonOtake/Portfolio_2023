@@ -1,0 +1,18 @@
+components/Skill.tsx
+  h_da978aeed56e72 1,9-12,16-18,20,23,26,28,30-35,37-38,40-44,46,48-51,54
+  h_da978aeed56e72 15,19,39,45,47
+components/Skills.tsx
+  h_da978aeed56e72 1,8,10,15-16,18-20,23-27,29-31,35
+  h_da978aeed56e72 13-14,17,21-22,40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "306cde3790727c4880a1465803e94cb6fc0c1c85",
+  "prompts": {},
+  "humans": {
+    "h_da978aeed56e72": {
+      "author": "Elson Otake <elsonotake@yahoo.com.br>"
+    }
+  }
+}

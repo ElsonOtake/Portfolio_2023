@@ -1,0 +1,15 @@
+components/Projects.tsx
+  h_da978aeed56e72 1,3,9-13,15-21,23-33,39-40,42-44,47,49,51-54,59-62,67,70-71,76,79-85,90,92-93,97-98,100,102-106,108-110,114-115,120-148,151-164,166
+  h_da978aeed56e72 14,22,41,50,55-58,68-69,72-75,77-78,86-88,107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0236cc4c8f23df514d0d74baf514ca8f7aa0fff2",
+  "prompts": {},
+  "humans": {
+    "h_da978aeed56e72": {
+      "author": "Elson Otake <elsonotake@yahoo.com.br>"
+    }
+  }
+}

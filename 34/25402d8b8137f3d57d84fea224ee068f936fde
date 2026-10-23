@@ -1,0 +1,16 @@
+package.json
+  h_da978aeed56e72 30
+yarn.lock
+  h_da978aeed56e72 9192,9194
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3425402d8b8137f3d57d84fea224ee068f936fde",
+  "prompts": {},
+  "humans": {
+    "h_da978aeed56e72": {
+      "author": "Elson Otake <elsonotake@yahoo.com.br>"
+    }
+  }
+}

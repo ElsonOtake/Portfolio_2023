@@ -1,0 +1,16 @@
+sanity.config.ts
+  h_da978aeed56e72 12-14
+.gitignore
+  h_da978aeed56e72 15-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "41e55db2e899ee4d0da931c263848b458b279766",
+  "prompts": {},
+  "humans": {
+    "h_da978aeed56e72": {
+      "author": "Elson Otake <elsonotake@yahoo.com.br>"
+    }
+  }
+}
