@@ -1,0 +1,19 @@
+pages/_document.tsx
+  s_d0dd472a0bee55::t_8fa77c5088aa21 15,24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9cd2a3ce3abf48e641fce9809524b90b28704dba",
+  "prompts": {},
+  "sessions": {
+    "s_d0dd472a0bee55": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a16f77-590f-7f30-be68-4c1de3e8eab8",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Elson Otake <elsonotake@yahoo.com.br>"
+    }
+  }
+}
